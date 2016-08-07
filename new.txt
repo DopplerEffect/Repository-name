@@ -1,2 +1,3 @@
 Franklin is the best
 merge conflict
+Third line
