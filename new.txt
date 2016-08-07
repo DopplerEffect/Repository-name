@@ -1,1 +1,2 @@
 Franklin is the best
+merge conflict
